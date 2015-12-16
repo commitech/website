@@ -1,4 +1,5 @@
 site_name: Website Maintenance Guide
 pages:
     - [index.md, Welcome]
+    - [setup.md, Domain and Hosting Setup]
 theme: readthedocs
